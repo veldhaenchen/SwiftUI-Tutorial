@@ -33,6 +33,7 @@
 		F751ADCF23C6359A008EA3C9 /* Landmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = F751ADCD23C6359A008EA3C9 /* Landmark.swift */; };
 		F751ADD023C6359A008EA3C9 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = F751ADCE23C6359A008EA3C9 /* Data.swift */; };
 		F751ADD223C63B9F008EA3C9 /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = F751ADD123C63B9F008EA3C9 /* LandmarkList.swift */; };
+		F751ADD423C64760008EA3C9 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = F751ADD323C64760008EA3C9 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -64,6 +65,7 @@
 		F751ADCD23C6359A008EA3C9 /* Landmark.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Landmark.swift; sourceTree = "<group>"; };
 		F751ADCE23C6359A008EA3C9 /* Data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
 		F751ADD123C63B9F008EA3C9 /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		F751ADD323C64760008EA3C9 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			isa = PBXGroup;
 			children = (
 				F751AD8F23C63184008EA3C9 /* AppDelegate.swift */,
+				F751ADD323C64760008EA3C9 /* .gitignore */,
 				F751AD9123C63184008EA3C9 /* SceneDelegate.swift */,
 				F751AD9623C63184008EA3C9 /* LandmarkDetail.swift */,
 				F751ADCA23C63516008EA3C9 /* LandmarkRow.swift */,
@@ -221,6 +224,7 @@
 				F751ADC123C63409008EA3C9 /* chilkoottrail.jpg in Resources */,
 				F751ADC223C63409008EA3C9 /* turtlerock.jpg in Resources */,
 				F751ADBF23C63409008EA3C9 /* rainbowlake.jpg in Resources */,
+				F751ADD423C64760008EA3C9 /* .gitignore in Resources */,
 				F751ADBE23C63409008EA3C9 /* lakemcdonald.jpg in Resources */,
 				F751ADC523C63409008EA3C9 /* landmarkData.json in Resources */,
 				F751ADC323C63409008EA3C9 /* silversalmoncreek.jpg in Resources */,
